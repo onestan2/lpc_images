@@ -1,0 +1,38 @@
+# Ignore Python Files
+*.pyc
+
+/assessment/csv_registration_files/*csv
+
+#ignore log files
+*.log
+
+#ignore data files and csv files
+
+
+# ignore unit test coverage files
+
+
+# ignore files from running server
+nohup.out
+
+#Ignore EVENTUALLY damon for pycharm.py and productions settings
+baseproject/settings/local_db/damon for pycharm.py
+*/migrations/
+
+# ignore migrations folders
+migrations/
+migrations/*
+
+# ignore migrations folders
+scrap/
+scrap/*
+
+# ignore IntelliJ directories and settings
+*.iml
+.idea/
+.idea/*
+
+# ignore sandbox directory and files
+sandbox/
+sandbox/*
+
